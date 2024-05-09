@@ -36,7 +36,7 @@
 </p>
 
 
-### 🤝🏻 &nbsp;My Social Networks
+### 🔗 &nbsp;My Social Networks
 
 <p align="center">
   <a href="https://www.youtube.com/@sergiecode"><img src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white"></a>
