@@ -45,11 +45,9 @@
 ### 🤝🏻 &nbsp;My Social Networks
 
 <p align="center">
-
-<a href="https://www.youtube.com/channel/@sergiecode"><img src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white"></a>
-<a href="https://twitter.com/sergiecode"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white"></a>
-<a href="https://instagram.com/sergiecode"><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"></a>
-<a href="https://facebook.com/sergiecodeok"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/sergiecode"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a>
-
+  <a href="https://www.youtube.com/channel/@sergiecode"><img src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white"></a>
+  <a href="https://twitter.com/sergiecode"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white"></a>
+  <a href="https://instagram.com/sergiecode"><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"></a>
+  <a href="https://facebook.com/sergiecodeok"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sergiecode"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a>
 </p>
