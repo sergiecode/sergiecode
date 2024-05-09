@@ -11,7 +11,7 @@
 
 ### 👨🏼‍💻 &nbsp;About Me
 
-💻My name is Sergie Code, I'm a software engineer, specialized in frontend development, and also a content creator on technology, programming, and artificial intelligence.
+💻I'm a software engineer, specialized in frontend development, and also a content creator on technology, programming, and artificial intelligence.
 
 👨🏼‍💻I work as a TECH LEAD with an excellent team of programmers with whom we develop software for an importante insurance company in the United States.
 
