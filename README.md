@@ -25,12 +25,6 @@
 
 📧Please feel free to contact me for any inquiries or collaborations! info@sergiecode.com
 
-<p align="center">
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
-</p>
-</br>
-</br>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
