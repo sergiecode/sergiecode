@@ -45,3 +45,83 @@
   <a href="https://facebook.com/sergiecodeok"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/sergiecode"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a>
 </p>
+
+## YouTube Videos:
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">React Desde Cero</h3>
+<div align="center">
+<a href="https://github.com/sergiecode/carrito-compras-react" target="_blank"><img src="https://raw.githubusercontent.com/sergiecode/sergiecode/main/react.png" width="400" alt="Curso React"></a>
+<p>
+<a href="https://github.com/sergiecode/carrito-compras-react" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/ladwC6Lrs-M" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Aprende a programar aplicaciones web con <strong>React</strong> - Para hacer este curso debes saber HTML, CSS y JavaScript que también están gratis en mi canal. Curso <strong>GRATUITO de 7 horas</strong> con 3 proyectos finales.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Angular Desde Cero</h3>
+<div align="center">                                       
+<a href="https://github.com/sergiecode/landing-page-angular-17" target="_blank"><img src="https://raw.githubusercontent.com/sergiecode/sergiecode/main/angular.png" width="400" alt="Angular desde cero"></a>
+<br>
+<p>
+<a href="https://github.com/sergiecode/landing-page-angular-17" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/soInCF7nbDw" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+<p>Aprende a programar aplicaciones web con <strong>Angular</strong> - Para hacer este curso debes saber HTML, CSS, JavaScript y TypeScript que también están gratis en mi canal. Curso <strong>GRATUITO de 8 horas</strong> con 2 proyectos finales.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Java Desde Cero</h3>
+<div align="center">
+<a href="https://github.com/sergiecode/java-railway-crud-apirest" target="_blank"><img src="https://raw.githubusercontent.com/sergiecode/sergiecode/main/java.png" width="400" alt="Curso Java"></a>
+<p>
+<a href="https://github.com/sergiecode/java-railway-crud-apirest" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/BdNqW63ZaB0" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Aprende a programar aplicaciones con <strong>Java</strong> - Para hacer este curso no requieres conocimientos previos. Curso <strong>GRATUITO de 8 horas</strong> con 1 proyecto final tipo API REST.</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">JavaScript Desde Cero</h3>
+<div align="center">
+<a href="https://github.com/sergiecode/base-app-peliculas-js" target="_blank"><img src="https://raw.githubusercontent.com/sergiecode/sergiecode/main/javascript.png" width="400" alt="Curso JavaScript"></a>
+<p>
+<a href="https://github.com/sergiecode/base-app-peliculas-js" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/N8Xt5rP_DUo" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>Aprende a programar aplicaciones web con <strong>JavaScript</strong> - Para hacer este curso debes saber HTML y CSS que también están gratis en mi canal. Curso <strong>GRATUITO de 8 horas</strong> con 6 proyectos finales.</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
