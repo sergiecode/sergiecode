@@ -38,9 +38,15 @@
 
 <p align="center">
   <a href="https://www.sergiecode.com"><img src="https://img.shields.io/badge/-sergiecode.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"></a>
-  <a href="https://linkedin.com/in/sergiecode"><img src="https://img.shields.io/badge/-Sergie%20Code-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
   <a href="mailto:info@sergiecode.com"><img src="https://img.shields.io/badge/-info@sergiecode.com-D14836?style=flat&logo=Gmail&logoColor=white"></a>
-  <a href="https://instagram.com/sergiecode"><img src="https://img.shields.io/badge/-sergiecode-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
-  <a href="https://facebook.com/sergiecodeok"><img src="https://img.shields.io/badge/-@sergiecodeok-1877F2?style=flat&logo=Facebook&logoColor=white"></a>
-  <a href="https://www.twitter.com/sergiecode"><img src="https://img.shields.io/badge/-@sergiecode-BD081C?style=flat&logo=Twitter&logoColor=white" style="background-color: #BD081C;"></a>
+</p>
+
+
+### 🤝🏻 &nbsp;My Social Networks
+<p align="center">
+[![Youtube](https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/@sergiecode)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sergiecode)
+[![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sergiecode)
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sergiecodeok)
+[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiecode)
 </p>
