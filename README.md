@@ -11,17 +11,11 @@
 
 ### 👨🏼‍💻 &nbsp;About Me
 
-💻I am a Frontend programmer with 5 years of experience in web application development and a passionate technology advocate on platforms such as YouTube, LinkedIn, Instagram, and Facebook, among others. In 2023, I have taken on the leadership of a successful frontend development campaign for a prominent US insurance company.
+💻My name is Sergie Code, I'm a software engineer, specialized in frontend development, and also a content creator on technology, programming, and artificial intelligence.
 
-⌨️My main focus lies in web application development using technologies such as Angular, ReactJS, JavaScript, TypeScript, Java, NodeJS, CSS, and CSS preprocessors. Additionally, I have experience with frameworks and libraries like Tailwind, Bootstrap, and Material, as well as languages like Python, among others.
+👨🏼‍💻I work as a TECH LEAD with an excellent team of programmers with whom we develop software for an importante insurance company in the United States.
 
-👨🏼‍💻Currently, I have the privilege of leading the Angular-based Frontend development campaign. My role involves working closely with a talented team to ensure successful project implementation and the delivery of high-quality results.
-
-🖱️I am a proactive, committed, and communicative person, which allows me to establish strong collaboration with team members and other departments. My problem-solving skills and ability to adapt quickly to diverse situations have been instrumental in achieving outstanding results throughout my professional career.
-
-🧐Furthermore, my creative approach and meticulous organization enable me to tackle challenges with a fresh perspective and ensure efficient execution in every project.
-
-💪🏼I am excited to continue growing professionally, learning new technologies, and facing new challenges in frontend development. I am always open to exciting opportunities and collaborations where I can contribute my expertise and passion for technology.
+🖱️I also teach online courses on my YouTube channel and have participated as an instructor in online programs at UTN (National Technological University) and Digital House (I've been involved in the Certified Tech Developer program, which is an educational initiative co-created by Digital House, Mercado Libre, and Globant to train developers following the highest industry standards)
 
 📧Please feel free to contact me for any inquiries or collaborations! info@sergiecode.com
 
